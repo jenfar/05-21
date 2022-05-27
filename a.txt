@@ -3,3 +3,5 @@ learning git
 modify
 my name is jen
 
+learning statshing
+
